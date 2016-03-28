@@ -47,4 +47,7 @@ platforms/ios/www/*
 
 # Files that might appear on external disk
 .Spotlight-V100
-.Trashes
+.Trashesplatforms/android/.gradle/*
+node_modules
+plugins/
+platforms/android/

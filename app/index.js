@@ -1,0 +1,4 @@
+/**
+ * Main file
+ */
+'use strict';
