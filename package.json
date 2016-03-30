@@ -1,12 +1,12 @@
 {
-  "name": "phonegap-template-hello-world",
-  "version": "1.0.0",
+  "name": "phonegap-ws-utn",
+  "version": "0.1.0",
   "description": "> A Hello World template built with PhoneGap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
+    "url": "https://github.com/lesterzone/wp-phonegap.git"
   },
-  "author": "PhoneGap Team",
+  "author": "lesterzone",
   "license": "Apache-2.0.0",
   "keywords": [
     "ecosystem:phonegap",
@@ -14,15 +14,14 @@
     "cordova:template",
     "phonegap:template"
   ],
-  "bugs": {
-    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
-  },
   "scripts": {
     "css-android": "cat www/css/ratchet.css www/css/ratchet-theme-android.css >> www/css/build.css",
+    "css-ios": "cat www/css/ratchet.css www/css/ratchet-theme-ios.css >> www/css/build.css",
     "js-android": "browserify app/index.js -o www/js/build.js",
-    "build-android": "npm run css-android && npm run js-android && phonegap run android"
+    "js-ios": "browserify app/index.js -o www/js/build.js",
+    "build-android": "npm run css-android && npm run js-android && phonegap run android",
+    "build-ios": "npm run css-ios && npm run js-ios && phonegap run ios"
   },
-  "homepage": "https://github.com/phonegap/phonegap-app-hello-world",
   "devDependencies": {
     "browserify": "13.0.0"
   }
