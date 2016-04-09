@@ -14,12 +14,10 @@
     <!-- Include the compiled Ratchet CSS -->
     <link href="css/build.css" rel="stylesheet">
 
-    <!-- Include the compiled Ratchet JS -->
-    <script type="text/javascript" src="cordova.js"></script>
+    <script src="cordoba.js"></script>
     <script src="js/ratchet.js"></script>
-    <script type="text/javascript" src="js/build.js"></script>
   </head>
-  <body>
+  <body id="detail">
 
     <header class="bar bar-nav">
       <button class="btn pull-left" id="back">
@@ -31,7 +29,10 @@
 
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
-        <p>Detail information goes here</p>
+        <div class="content-padded">
+            <p>Detail information goes here</p>
+        </div>
     </div>
+    <script src="js/index.js"></script>
   </body>
 </html>

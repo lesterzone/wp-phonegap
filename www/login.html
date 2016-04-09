@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ratchet template page</title>
+
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link href="css/build.css" rel="stylesheet">
+
+    <script src="cordoba.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/ratchet.js"></script>
+    <script src="js/index.js"></script>
+  </head>
+  <body id="login">
+
+    <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+    <div class="content">
+        <div class="content-padded">
+            <div class="card">
+                <img src="img/log.png" style="width: 50%; height: 50%; display: block; margin-left: auto; margin-right: auto;">
+            </div>
+            <form>
+                <label>Correo</label>
+                <input type="email" placeholder="Correo" id="email">
+
+                <label>Contraseña</label>
+                <input type="password" placeholder="Contraseña" id="password">
+
+                <button class="btn btn-positive btn-block" id="login">Iniciar Sesión</button>
+            </form>
+            <a href="signup.html">Crear Cuenta</a>
+        </div>
+    </div>
+    <script type="text/javascript">
+        app.login();
+    </script>
+  </body>
+</html>

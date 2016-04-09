@@ -15,14 +15,15 @@
     "phonegap:template"
   ],
   "scripts": {
-    "css-android": "cat www/css/ratchet.css www/css/ratchet-theme-android.css >> www/css/build.css",
+    "css-android": "cat www/css/ratchet-theme-android.css www/css/ratchet.css >> www/css/build.css",
     "css-ios": "cat www/css/ratchet.css www/css/ratchet-theme-ios.css >> www/css/build.css",
-    "js-android": "browserify app/index.js -o www/js/build.js",
     "js-ios": "browserify app/index.js -o www/js/build.js",
-    "build-android": "npm run css-android && npm run js-android && phonegap run android",
-    "build-ios": "npm run css-ios && npm run js-ios && phonegap run ios"
+    "build-android": "npm run css-android && phonegap run android",
+    "build-ios": "npm run css-ios && npm run js-ios && phonegap run ios",
+    "serve-android": "phonegap serve"
   },
   "devDependencies": {
-    "browserify": "13.0.0"
+    "browserify": "13.0.0",
+    "watchify": "3.7.0"
   }
 }

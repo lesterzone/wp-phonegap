@@ -9,11 +9,6 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.phonegap.helloworld"
-        },
-        "phonegap-facebook-plugin": {
-            "APP_ID": "123456789",
-            "APP_NAME": "myApplication",
-            "PACKAGE_NAME": "com.phonegap.helloworld"
         }
     },
     "dependent_plugins": {}
