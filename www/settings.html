@@ -14,17 +14,16 @@
     <!-- Include the compiled Ratchet CSS -->
     <link href="css/build.css" rel="stylesheet">
 
-    <!-- Include the compiled Ratchet JS -->
-    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="cordoba.js"></script>
     <script src="js/ratchet.js"></script>
-    <script type="text/javascript" src="js/build.js"></script>
   </head>
-  <body>
+  <body id="settings">
 
     <!-- Make sure all your bars are the first things in your <body> -->
     <header class="bar bar-nav">
         <nav class="bar bar-tab">
-          <a class="tab-item active" href="index.html">
+          <a class="tab-item" href="index.html">
             <span class="icon icon-home"></span>
             <span class="tab-label">Home</span>
           </a>
@@ -36,18 +35,25 @@
             <span class="icon icon-play"></span>
             <span class="tab-label">Movies</span>
           </a>
-          <a class="tab-item" href="settings.html">
+          <a class="tab-item active" href="settings.html">
             <span class="icon icon-gear"></span>
             <span class="tab-label">Settings</span>
           </a>
         </nav>
     </header>
 
-    <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
-      <div>
-        Set settings here
+      <div class="content-padded">
+      <div class="card">
+        <ul class="table-view">
+          <li class="table-view-cell">
+          Sesión
+            <button id="logout" class="btn btn-negative btn-outlined">Cerrar Sessión</button>
+          </li>
+        </ul>
+      </div>
       </div>
     </div>
+    <script src="js/index.js"></script>
   </body>
 </html>
