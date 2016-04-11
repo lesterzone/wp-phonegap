@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KALFARO-PC</Machine>
+    <WindowsUser>kalfaro</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>com.phonegap.helloworld</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>935518D4325E5C456D1538FDD78A304AF29AFD1B9DD754CBAB4729CB7662CB44</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.phonegap.helloworld_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.phonegap.helloworld_h35559jr9hy9m!com.phonegap.helloworld</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.phonegap.helloworld</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T17:32:36.167</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-11T16:35:25.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-11T16:35:25.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-11T16:35:25.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\icon.png">
+      <PackagePath>www\icon.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-36-ldpi.png">
+      <PackagePath>www\res\icon\android\icon-36-ldpi.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-48-mdpi.png">
+      <PackagePath>www\res\icon\android\icon-48-mdpi.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-72-hdpi.png">
+      <PackagePath>www\res\icon\android\icon-72-hdpi.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-96-xhdpi.png">
+      <PackagePath>www\res\icon\android\icon-96-xhdpi.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-57-2x.png">
+      <PackagePath>www\res\icon\ios\icon-57-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-57.png">
+      <PackagePath>www\res\icon\ios\icon-57.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-72-2x.png">
+      <PackagePath>www\res\icon\ios\icon-72-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-72.png">
+      <PackagePath>www\res\icon\ios\icon-72.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-173-tile.png">
+      <PackagePath>www\res\icon\windows-phone\icon-173-tile.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-48.png">
+      <PackagePath>www\res\icon\windows-phone\icon-48.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-62-tile.png">
+      <PackagePath>www\res\icon\windows-phone\icon-62-tile.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-hdpi-landscape.png">
+      <PackagePath>www\res\screen\android\screen-hdpi-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-hdpi-portrait.png">
+      <PackagePath>www\res\screen\android\screen-hdpi-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-ldpi-landscape.png">
+      <PackagePath>www\res\screen\android\screen-ldpi-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-ldpi-portrait.png">
+      <PackagePath>www\res\screen\android\screen-ldpi-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-mdpi-landscape.png">
+      <PackagePath>www\res\screen\android\screen-mdpi-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-mdpi-portrait.png">
+      <PackagePath>www\res\screen\android\screen-mdpi-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-xhdpi-landscape.png">
+      <PackagePath>www\res\screen\android\screen-xhdpi-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-xhdpi-portrait.png">
+      <PackagePath>www\res\screen\android\screen-xhdpi-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-landscape-2x.png">
+      <PackagePath>www\res\screen\ios\screen-ipad-landscape-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-landscape.png">
+      <PackagePath>www\res\screen\ios\screen-ipad-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-portrait-2x.png">
+      <PackagePath>www\res\screen\ios\screen-ipad-portrait-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-portrait.png">
+      <PackagePath>www\res\screen\ios\screen-ipad-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-landscape-2x.png">
+      <PackagePath>www\res\screen\ios\screen-iphone-landscape-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-landscape.png">
+      <PackagePath>www\res\screen\ios\screen-iphone-landscape.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait-2x.png">
+      <PackagePath>www\res\screen\ios\screen-iphone-portrait-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait-568h-2x.png">
+      <PackagePath>www\res\screen\ios\screen-iphone-portrait-568h-2x.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait.png">
+      <PackagePath>www\res\screen\ios\screen-iphone-portrait.png</PackagePath>
+      <Modified>2016-04-11T17:32:34.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\build.js">
+      <PackagePath>www\js\build.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\ratchet.js">
+      <PackagePath>www\js\ratchet.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\ratchet.min.js">
+      <PackagePath>www\js\ratchet.min.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\helper.js">
+      <PackagePath>www\spec\helper.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\index.js">
+      <PackagePath>www\spec\index.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine-html.js">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine-html.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.js">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-04-11T17:32:34.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\build.css">
+      <PackagePath>www\css\build.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-android.css">
+      <PackagePath>www\css\ratchet-theme-android.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-android.min.css">
+      <PackagePath>www\css\ratchet-theme-android.min.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-ios.css">
+      <PackagePath>www\css\ratchet-theme-ios.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-ios.min.css">
+      <PackagePath>www\css\ratchet-theme-ios.min.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet.css">
+      <PackagePath>www\css\ratchet.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet.min.css">
+      <PackagePath>www\css\ratchet.min.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.css">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.css</PackagePath>
+      <Modified>2016-04-11T17:32:34.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\detail.html">
+      <PackagePath>www\detail.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\movies.html">
+      <PackagePath>www\movies.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\profile.html">
+      <PackagePath>www\profile.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\settings.html">
+      <PackagePath>www\settings.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec.html">
+      <PackagePath>www\spec.html</PackagePath>
+      <Modified>2016-04-11T17:32:34.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.eot">
+      <PackagePath>www\fonts\ratchicons.eot</PackagePath>
+      <Modified>2016-04-11T17:32:34.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.svg">
+      <PackagePath>www\fonts\ratchicons.svg</PackagePath>
+      <Modified>2016-04-11T17:32:34.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.ttf">
+      <PackagePath>www\fonts\ratchicons.ttf</PackagePath>
+      <Modified>2016-04-11T17:32:34.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.woff">
+      <PackagePath>www\fonts\ratchicons.woff</PackagePath>
+      <Modified>2016-04-11T17:32:34.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\.pgbomit">
+      <PackagePath>www\res\.pgbomit</PackagePath>
+      <Modified>2016-04-11T17:32:34.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\windows-phone\screen-portrait.jpg">
+      <PackagePath>www\res\screen\windows-phone\screen-portrait.jpg</PackagePath>
+      <Modified>2016-04-11T17:32:34.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\values\facebookconnect.xml">
+      <PackagePath>www\res\values\facebookconnect.xml</PackagePath>
+      <Modified>2016-04-11T17:32:34.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-04-11T17:32:35.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\MIT.LICENSE">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\MIT.LICENSE</PackagePath>
+      <Modified>2016-04-11T17:32:34.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-11T17:32:35.953</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

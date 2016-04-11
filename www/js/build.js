@@ -4,5 +4,5 @@
  */
 'use strict';
 
-alert(facebookConnectPlugin);
+// alert(facebookConnectPlugin);
 },{}]},{},[1]);

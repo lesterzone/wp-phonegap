@@ -1,0 +1,14 @@
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\Background.png
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\com.phonegap.helloworld.dll
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\com.phonegap.helloworld.pdb
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\com.phonegap.helloworld.g.resources
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\com.phonegap.helloworld.dll
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\com.phonegap.helloworld.pdb
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\wp8\obj\Debug\XapCacheFile.xml

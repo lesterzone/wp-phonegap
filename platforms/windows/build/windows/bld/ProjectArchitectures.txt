@@ -1,0 +1,1 @@
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\CordovaApp.Windows.jsproj;x64
