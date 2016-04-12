@@ -22,320 +22,344 @@
     <AppXManifest Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:50:30.679</Modified>
+      <Modified>2016-04-12T02:18:24.480</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\SplashScreen.scale-100.png">
       <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.428</Modified>
+      <Modified>2016-04-11T22:24:30.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square150x150Logo.scale-100.png">
       <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.432</Modified>
+      <Modified>2016-04-11T22:24:30.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square30x30Logo.scale-100.png">
       <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.435</Modified>
+      <Modified>2016-04-11T22:24:30.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.436</Modified>
+      <Modified>2016-04-11T22:24:30.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square44x44Logo.scale-100.png">
       <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
-      <Modified>2016-04-11T16:35:25.438</Modified>
+      <Modified>2016-04-11T22:24:30.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.440</Modified>
+      <Modified>2016-04-11T22:24:30.583</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square71x71Logo.scale-100.png">
       <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
-      <Modified>2016-04-11T16:35:25.441</Modified>
+      <Modified>2016-04-11T22:24:30.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\StoreLogo.scale-100.png">
       <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.443</Modified>
+      <Modified>2016-04-11T22:24:30.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T16:35:25.447</Modified>
+      <Modified>2016-04-11T22:24:30.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\icon.png">
       <PackagePath>www\icon.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.294</Modified>
+      <Modified>2016-04-12T02:18:22.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\img\log.png">
+      <PackagePath>www\img\log.png</PackagePath>
+      <Modified>2016-04-12T02:18:22.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\img\logo.png">
       <PackagePath>www\img\logo.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.296</Modified>
+      <Modified>2016-04-12T02:18:22.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-36-ldpi.png">
       <PackagePath>www\res\icon\android\icon-36-ldpi.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.327</Modified>
+      <Modified>2016-04-12T02:18:22.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-48-mdpi.png">
       <PackagePath>www\res\icon\android\icon-48-mdpi.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.328</Modified>
+      <Modified>2016-04-12T02:18:22.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-72-hdpi.png">
       <PackagePath>www\res\icon\android\icon-72-hdpi.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.330</Modified>
+      <Modified>2016-04-12T02:18:22.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\android\icon-96-xhdpi.png">
       <PackagePath>www\res\icon\android\icon-96-xhdpi.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.331</Modified>
+      <Modified>2016-04-12T02:18:22.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-57-2x.png">
       <PackagePath>www\res\icon\ios\icon-57-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.333</Modified>
+      <Modified>2016-04-12T02:18:22.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-57.png">
       <PackagePath>www\res\icon\ios\icon-57.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.334</Modified>
+      <Modified>2016-04-12T02:18:22.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-72-2x.png">
       <PackagePath>www\res\icon\ios\icon-72-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.335</Modified>
+      <Modified>2016-04-12T02:18:22.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\ios\icon-72.png">
       <PackagePath>www\res\icon\ios\icon-72.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.337</Modified>
+      <Modified>2016-04-12T02:18:22.387</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-173-tile.png">
       <PackagePath>www\res\icon\windows-phone\icon-173-tile.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.339</Modified>
+      <Modified>2016-04-12T02:18:22.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-48.png">
       <PackagePath>www\res\icon\windows-phone\icon-48.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.340</Modified>
+      <Modified>2016-04-12T02:18:22.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\icon\windows-phone\icon-62-tile.png">
       <PackagePath>www\res\icon\windows-phone\icon-62-tile.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.342</Modified>
+      <Modified>2016-04-12T02:18:22.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-hdpi-landscape.png">
       <PackagePath>www\res\screen\android\screen-hdpi-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.344</Modified>
+      <Modified>2016-04-12T02:18:22.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-hdpi-portrait.png">
       <PackagePath>www\res\screen\android\screen-hdpi-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.345</Modified>
+      <Modified>2016-04-12T02:18:22.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-ldpi-landscape.png">
       <PackagePath>www\res\screen\android\screen-ldpi-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.347</Modified>
+      <Modified>2016-04-12T02:18:22.399</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-ldpi-portrait.png">
       <PackagePath>www\res\screen\android\screen-ldpi-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.348</Modified>
+      <Modified>2016-04-12T02:18:22.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-mdpi-landscape.png">
       <PackagePath>www\res\screen\android\screen-mdpi-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.349</Modified>
+      <Modified>2016-04-12T02:18:22.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-mdpi-portrait.png">
       <PackagePath>www\res\screen\android\screen-mdpi-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.351</Modified>
+      <Modified>2016-04-12T02:18:22.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-xhdpi-landscape.png">
       <PackagePath>www\res\screen\android\screen-xhdpi-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.352</Modified>
+      <Modified>2016-04-12T02:18:22.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\android\screen-xhdpi-portrait.png">
       <PackagePath>www\res\screen\android\screen-xhdpi-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.354</Modified>
+      <Modified>2016-04-12T02:18:22.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-landscape-2x.png">
       <PackagePath>www\res\screen\ios\screen-ipad-landscape-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.355</Modified>
+      <Modified>2016-04-12T02:18:22.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-landscape.png">
       <PackagePath>www\res\screen\ios\screen-ipad-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.357</Modified>
+      <Modified>2016-04-12T02:18:22.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-portrait-2x.png">
       <PackagePath>www\res\screen\ios\screen-ipad-portrait-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.359</Modified>
+      <Modified>2016-04-12T02:18:22.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-ipad-portrait.png">
       <PackagePath>www\res\screen\ios\screen-ipad-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.360</Modified>
+      <Modified>2016-04-12T02:18:22.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-landscape-2x.png">
       <PackagePath>www\res\screen\ios\screen-iphone-landscape-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.361</Modified>
+      <Modified>2016-04-12T02:18:22.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-landscape.png">
       <PackagePath>www\res\screen\ios\screen-iphone-landscape.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.363</Modified>
+      <Modified>2016-04-12T02:18:22.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait-2x.png">
       <PackagePath>www\res\screen\ios\screen-iphone-portrait-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.364</Modified>
+      <Modified>2016-04-12T02:18:22.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait-568h-2x.png">
       <PackagePath>www\res\screen\ios\screen-iphone-portrait-568h-2x.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.366</Modified>
+      <Modified>2016-04-12T02:18:22.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\ios\screen-iphone-portrait.png">
       <PackagePath>www\res\screen\ios\screen-iphone-portrait.png</PackagePath>
-      <Modified>2016-04-11T16:50:28.367</Modified>
+      <Modified>2016-04-12T02:18:22.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\exec.js">
       <PackagePath>www\cordova-js-src\exec.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.850</Modified>
+      <Modified>2016-04-12T02:18:22.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\platform.js">
       <PackagePath>www\cordova-js-src\platform.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.851</Modified>
+      <Modified>2016-04-12T02:18:22.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.441</Modified>
+      <Modified>2016-04-12T02:18:22.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.852</Modified>
+      <Modified>2016-04-12T02:18:22.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\build.js">
       <PackagePath>www\js\build.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.900</Modified>
+      <Modified>2016-04-12T02:18:22.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.901</Modified>
+      <Modified>2016-04-12T02:18:22.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\jquery.js">
+      <PackagePath>www\js\jquery.js</PackagePath>
+      <Modified>2016-04-12T02:18:22.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\push.js">
+      <PackagePath>www\js\push.js</PackagePath>
+      <Modified>2016-04-12T02:18:22.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\push2.js">
+      <PackagePath>www\js\push2.js</PackagePath>
+      <Modified>2016-04-12T02:18:22.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\ratchet.js">
       <PackagePath>www\js\ratchet.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.910</Modified>
+      <Modified>2016-04-12T02:18:22.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\ratchet.min.js">
       <PackagePath>www\js\ratchet.min.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.920</Modified>
+      <Modified>2016-04-12T02:18:22.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\helper.js">
       <PackagePath>www\spec\helper.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.924</Modified>
+      <Modified>2016-04-12T02:18:22.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\index.js">
       <PackagePath>www\spec\index.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.925</Modified>
+      <Modified>2016-04-12T02:18:22.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine-html.js">
       <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine-html.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.937</Modified>
+      <Modified>2016-04-12T02:18:22.917</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.js">
       <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.965</Modified>
+      <Modified>2016-04-12T02:18:22.948</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
-      <Modified>2016-04-11T16:50:28.509</Modified>
+      <Modified>2016-04-12T02:18:22.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\build.css">
       <PackagePath>www\css\build.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.869</Modified>
+      <Modified>2016-04-12T02:18:22.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-android.css">
       <PackagePath>www\css\ratchet-theme-android.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.874</Modified>
+      <Modified>2016-04-12T02:18:22.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-android.min.css">
       <PackagePath>www\css\ratchet-theme-android.min.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.879</Modified>
+      <Modified>2016-04-12T02:18:22.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-ios.css">
       <PackagePath>www\css\ratchet-theme-ios.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.884</Modified>
+      <Modified>2016-04-12T02:18:22.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet-theme-ios.min.css">
       <PackagePath>www\css\ratchet-theme-ios.min.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.889</Modified>
+      <Modified>2016-04-12T02:18:22.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet.css">
       <PackagePath>www\css\ratchet.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.893</Modified>
+      <Modified>2016-04-12T02:18:22.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\css\ratchet.min.css">
       <PackagePath>www\css\ratchet.min.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.898</Modified>
+      <Modified>2016-04-12T02:18:22.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.css">
       <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.css</PackagePath>
-      <Modified>2016-04-11T16:50:28.938</Modified>
+      <Modified>2016-04-12T02:18:22.919</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\detail.html">
       <PackagePath>www\detail.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.899</Modified>
+      <Modified>2016-04-12T02:18:22.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.899</Modified>
+      <Modified>2016-04-12T02:18:22.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\login.html">
+      <PackagePath>www\login.html</PackagePath>
+      <Modified>2016-04-12T02:18:22.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\movies.html">
       <PackagePath>www\movies.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.921</Modified>
+      <Modified>2016-04-12T02:18:22.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\profile.html">
       <PackagePath>www\profile.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.922</Modified>
+      <Modified>2016-04-12T02:18:22.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\settings.html">
       <PackagePath>www\settings.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.923</Modified>
+      <Modified>2016-04-12T02:18:22.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\signup.html">
+      <PackagePath>www\signup.html</PackagePath>
+      <Modified>2016-04-12T02:18:22.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec.html">
       <PackagePath>www\spec.html</PackagePath>
-      <Modified>2016-04-11T16:50:28.965</Modified>
+      <Modified>2016-04-12T02:18:22.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.eot">
       <PackagePath>www\fonts\ratchicons.eot</PackagePath>
-      <Modified>2016-04-11T16:50:28.283</Modified>
+      <Modified>2016-04-12T02:18:22.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.svg">
       <PackagePath>www\fonts\ratchicons.svg</PackagePath>
-      <Modified>2016-04-11T16:50:28.287</Modified>
+      <Modified>2016-04-12T02:18:22.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.ttf">
       <PackagePath>www\fonts\ratchicons.ttf</PackagePath>
-      <Modified>2016-04-11T16:50:28.290</Modified>
+      <Modified>2016-04-12T02:18:22.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\fonts\ratchicons.woff">
       <PackagePath>www\fonts\ratchicons.woff</PackagePath>
-      <Modified>2016-04-11T16:50:28.292</Modified>
+      <Modified>2016-04-12T02:18:22.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\.pgbomit">
       <PackagePath>www\res\.pgbomit</PackagePath>
-      <Modified>2016-04-11T16:50:28.324</Modified>
+      <Modified>2016-04-12T02:18:22.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\screen\windows-phone\screen-portrait.jpg">
       <PackagePath>www\res\screen\windows-phone\screen-portrait.jpg</PackagePath>
-      <Modified>2016-04-11T16:50:28.372</Modified>
+      <Modified>2016-04-12T02:18:22.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\res\values\facebookconnect.xml">
       <PackagePath>www\res\values\facebookconnect.xml</PackagePath>
-      <Modified>2016-04-11T16:50:28.374</Modified>
+      <Modified>2016-04-12T02:18:22.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
-      <Modified>2016-04-11T16:50:30.043</Modified>
+      <Modified>2016-04-12T02:18:24.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\spec\lib\jasmine-1.2.0\MIT.LICENSE">
       <PackagePath>www\spec\lib\jasmine-1.2.0\MIT.LICENSE</PackagePath>
-      <Modified>2016-04-11T16:50:28.422</Modified>
+      <Modified>2016-04-12T02:18:22.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-11T16:50:30.231</Modified>
+      <Modified>2016-04-12T02:18:24.291</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

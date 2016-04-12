@@ -14,21 +14,19 @@
     <!-- Include the compiled Ratchet CSS -->
     <link href="css/build.css" rel="stylesheet">
 
-    <!-- Include the compiled Ratchet JS -->
-    <script type="text/javascript" src="cordova.js"></script>
     <script src="js/ratchet.js"></script>
     <script type="text/javascript" src="js/build.js"></script>
   </head>
-  <body>
+  <body id="profile">
 
     <!-- Make sure all your bars are the first things in your <body> -->
     <header class="bar bar-nav">
         <nav class="bar bar-tab">
-          <a class="tab-item active" href="index.html">
+          <a class="tab-item" href="index.html">
             <span class="icon icon-home"></span>
             <span class="tab-label">Home</span>
           </a>
-          <a class="tab-item" href="profile.html">
+          <a class="tab-item active" href="profile.html">
             <span class="icon icon-person"></span>
             <span class="tab-label">Profile</span>
           </a>
@@ -45,7 +43,7 @@
 
     <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
     <div class="content">
-      <div>
+      <div class="content-padded">
         This is a profile
       </div>
     </div>

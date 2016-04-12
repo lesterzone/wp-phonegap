@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -14,7 +14,10 @@
     <!-- Include the compiled Ratchet CSS -->
     <link href="css/build.css" rel="stylesheet">
 
+    <script src="js/jquery.js"></script>
     <script src="js/ratchet.js"></script>
+    <script src="js/push2.js"></script>
+
     <script type="text/javascript" src="js/build.js"></script>
   </head>
   <body id="profile">
@@ -26,7 +29,7 @@
             <span class="icon icon-home"></span>
             <span class="tab-label">Home</span>
           </a>
-          <a class="tab-item active" href="profile.html">
+          <a class="tab-item active" href="profile.html" data-transition="slide-in">
             <span class="icon icon-person"></span>
             <span class="tab-label">Profile</span>
           </a>
