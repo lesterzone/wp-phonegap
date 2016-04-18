@@ -1,29 +1,27 @@
 {
-  "name": "phonegap-ws-utn",
-  "version": "0.1.0",
-  "description": "> A Hello World template built with PhoneGap",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lesterzone/wp-phonegap.git"
-  },
-  "author": "lesterzone",
-  "license": "Apache-2.0.0",
-  "keywords": [
-    "ecosystem:phonegap",
-    "ecosystem:cordova",
-    "cordova:template",
-    "phonegap:template"
-  ],
+  "name": "onsenapp",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
   "scripts": {
-    "css-android": "cat www/css/ratchet-theme-android.css www/css/ratchet.css >> www/css/build.css",
-    "css-ios": "cat www/css/ratchet.css www/css/ratchet-theme-ios.css >> www/css/build.css",
-    "js-ios": "browserify app/index.js -o www/js/build.js",
-    "build-android": "npm run css-android && phonegap run android",
-    "build-ios": "npm run css-ios && npm run js-ios && phonegap run ios",
-    "serve-android": "phonegap serve"
   },
+  "author": "",
+  "license": "MIT",
   "devDependencies": {
-    "browserify": "13.0.0",
-    "watchify": "3.7.0"
+    "browser-sync": "^2.6.1",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-cached": "^1.0.1",
+    "gulp-jshint": "^1.8.4",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-shell": "^0.4.0",
+    "gulp-stylus": "^2.0.1",
+    "gulp-task-listing": "^1.0.0",
+    "gulp-typescript": "^2.9.2",
+    "jshint-stylish": "^1.0.1",
+    "run-sequence": "^1.0.2"
   }
 }
