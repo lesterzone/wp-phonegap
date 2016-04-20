@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+      
+    </script>
+    <link rel="stylesheet" href="styles/main.css" />
+    <script src="scripts/main.js"></script>
+  </head>
+  <body>
+
+    <ons-sliding-menu main-page="page.html" menu-page="views/menu.html" max-slide-distance="40%" type="push" var="menu">
+    </ons-sliding-menu>
+
+    <ons-template id="page.html">
+      <ons-page>
+        <ons-toolbar>
+          <div class="left">
+            <ons-toolbar-button ng-click="menu.toggleMenu()">
+              <ons-icon icon="ion-navicon" size="28px" fixed-width="false"></ons-icon>
+            </ons-toolbar-button>
+          </div>
+          <div class="center">Movies</div>
+        </ons-toolbar>
+
+      </ons-page>
+    </ons-template>
+  </body>
+</html>
