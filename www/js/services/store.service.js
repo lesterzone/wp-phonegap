@@ -34,19 +34,10 @@
             }
         }
 
-        function token() {
-            var data = get('cu');
-            if (data) {
-                return data.tk;
-            }
-            return null;
-        }
-
         return {
             set: set,
             get: get,
-            clear: clear,
-            token: token,
+            clear: clear
         };
     }
 

@@ -9,13 +9,11 @@
     		sessionsService.logout(
             function (data) {
                 storeSevice.clear();
-                console.log('succes');
-               // app.navi.pushPage('views/login.html');
+                app.navi.pushPage('views/login.html');
             },
             function (error) {
                 storeSevice.clear();
-                console.log('error');
-                //app.navi.pushPage('views/login.html');
+                app.navi.pushPage('views/login.html');
             });
         }
     });
