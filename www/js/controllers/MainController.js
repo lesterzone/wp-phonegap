@@ -7,7 +7,7 @@
 
     	$scope.getMovie = function () {
     		ons.notification.alert({
-            	message: 'change view'
+            	message: 'change viewsss'
              });
         }
     });
