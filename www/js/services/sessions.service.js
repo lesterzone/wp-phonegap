@@ -13,13 +13,20 @@
             return $http.delete(baseUrl).then(callback, error);
         }
 
-        function signup() {
+        function signup() {}
 
+        function isLoggedIn() {
+            var token = storeSevice.get('token');
+            if (token) {
+                return true;
+            }
+            return false;
         }
 
         return {
             login: login,
-            logout: logout
+            logout: logout,
+            isLoggedIn: isLoggedIn
         };
     };
 

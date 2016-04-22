@@ -17,6 +17,7 @@ www\index.html
 www\js\app.js
 www\js\controllers\LoginController.js
 www\js\controllers\NewAccountController.js
+www\js\factory\httpRequestInterceptor.factory.js
 www\js\services\sessions.service.js
 www\js\services\store.service.js
 www\js\services\users.service.js
