@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="com.phonegap.helloworld" Publisher="CN=Apache Cordova Team" Version="1.0.0.0" ProcessorArchitecture="arm" />
+  <Identity Name="com.phonegap.helloworld" Publisher="CN=Apache Cordova Team" Version="1.0.0.0" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>Hello World</DisplayName>
     <PublisherDisplayName>PhoneGap Team</PublisherDisplayName>

@@ -6,13 +6,13 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>6.3</TargetOsVersion>
     <TargetOsDescription>Windows 8.1</TargetOsDescription>
-    <SolutionConfiguration>debug|arm</SolutionConfiguration>
-    <PackageArchitecture>arm</PackageArchitecture>
+    <SolutionConfiguration>debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>com.phonegap.helloworld</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\bld\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\arm\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
@@ -142,6 +142,9 @@
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\scripts\platformOverrides.js">
       <PackagePath>www\scripts\platformOverrides.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\main.js">
+      <PackagePath>www\styles\main.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
     </AppxPackagedFile>
@@ -156,6 +159,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\login.html">
       <PackagePath>www\views\login.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\main.html">
+      <PackagePath>www\views\main.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\menu.html">
+      <PackagePath>www\views\menu.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular-csp.css">
       <PackagePath>www\lib\angular\angular-csp.css</PackagePath>
@@ -195,6 +204,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsenui.css">
       <PackagePath>www\lib\onsen\css\onsenui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\create-account.css">
+      <PackagePath>www\styles\create-account.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\main.css">
+      <PackagePath>www\styles\main.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\login\login.css">
       <PackagePath>www\views\login\login.css</PackagePath>
@@ -367,7 +382,7 @@
     <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\arm\resources.pri">
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

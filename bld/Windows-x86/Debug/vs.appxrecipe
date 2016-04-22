@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KALFARO-PC</Machine>
+    <WindowsUser>kalfaro</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>com.phonegap.helloworld</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4606D1EDF80B2BE60A6561C00CE78C86935D85FD811011A2FCAD36A61D387BC1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.phonegap.helloworld_1.0.0.0_x86__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.phonegap.helloworld_h35559jr9hy9m!com.phonegap.helloworld</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.phonegap.helloworld</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-22T02:36:52.374</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-17T00:29:51.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-04-17T00:29:51.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T00:29:51.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\images\log.png">
+      <PackagePath>www\images\log.png</PackagePath>
+      <Modified>2016-04-22T02:36:48.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\controllers\LoginController.js">
+      <PackagePath>www\js\controllers\LoginController.js</PackagePath>
+      <Modified>2016-04-22T02:36:48.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\controllers\NewAccountController.js">
+      <PackagePath>www\js\controllers\NewAccountController.js</PackagePath>
+      <Modified>2016-04-22T02:36:48.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\services\sessions.service.js">
+      <PackagePath>www\js\services\sessions.service.js</PackagePath>
+      <Modified>2016-04-22T02:36:48.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\services\store.service.js">
+      <PackagePath>www\js\services\store.service.js</PackagePath>
+      <Modified>2016-04-22T02:36:48.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\js\services\users.service.js">
+      <PackagePath>www\js\services\users.service.js</PackagePath>
+      <Modified>2016-04-22T02:36:48.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular.js">
+      <PackagePath>www\lib\angular\angular.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular.min.js">
+      <PackagePath>www\lib\angular\angular.min.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\build.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\build.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\json.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\json.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\scripts\3-run-saucelabs-tests.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\scripts\3-run-saucelabs-tests.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\scripts\saucelabs-platformSets.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\scripts\saucelabs-platformSets.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\store+json2.min.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\store+json2.min.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\store.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\store.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\store.min.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\store.min.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\tests\browser-test-runner.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\tests\browser-test-runner.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\tests\node-test-runner.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\tests\node-test-runner.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\tests\tests.js">
+      <PackagePath>www\lib\angular\bower_components\storejs\tests\tests.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\index.js">
+      <PackagePath>www\lib\angular\index.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\js\onsenui.js">
+      <PackagePath>www\lib\onsen\js\onsenui.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\js\onsenui.min.js">
+      <PackagePath>www\lib\onsen\js\onsenui.min.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\js\onsenui_all.js">
+      <PackagePath>www\lib\onsen\js\onsenui_all.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\js\onsenui_all.min.js">
+      <PackagePath>www\lib\onsen\js\onsenui_all.min.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\main.js">
+      <PackagePath>www\styles\main.js</PackagePath>
+      <Modified>2016-04-22T02:36:50.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-04-22T02:36:49.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-04-22T02:36:48.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\index.html">
+      <PackagePath>www\lib\angular\bower_components\storejs\index.html</PackagePath>
+      <Modified>2016-04-22T02:36:50.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\create-account.html">
+      <PackagePath>www\views\create-account.html</PackagePath>
+      <Modified>2016-04-22T02:36:49.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\login.html">
+      <PackagePath>www\views\login.html</PackagePath>
+      <Modified>2016-04-22T02:36:49.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\main.html">
+      <PackagePath>www\views\main.html</PackagePath>
+      <Modified>2016-04-22T02:36:50.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\menu.html">
+      <PackagePath>www\views\menu.html</PackagePath>
+      <Modified>2016-04-22T02:36:50.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular-csp.css">
+      <PackagePath>www\lib\angular\angular-csp.css</PackagePath>
+      <Modified>2016-04-22T02:36:49.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\css\font-awesome.css">
+      <PackagePath>www\lib\onsen\css\font_awesome\css\font-awesome.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\css\font-awesome.min.css">
+      <PackagePath>www\lib\onsen\css\font_awesome\css\font-awesome.min.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\css\ionicons.css">
+      <PackagePath>www\lib\onsen\css\ionicons\css\ionicons.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\css\ionicons.min.css">
+      <PackagePath>www\lib\onsen\css\ionicons\css\ionicons.min.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-blue-basic-theme.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-blue-basic-theme.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-blue-theme.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-blue-theme.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-dark-theme.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-dark-theme.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-default.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-default.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-purple-theme.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-purple-theme.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components-sunshine-theme.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components-sunshine-theme.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsen-css-components.css">
+      <PackagePath>www\lib\onsen\css\onsen-css-components.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\onsenui.css">
+      <PackagePath>www\lib\onsen\css\onsenui.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\create-account.css">
+      <PackagePath>www\styles\create-account.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\styles\main.css">
+      <PackagePath>www\styles\main.css</PackagePath>
+      <Modified>2016-04-22T02:36:50.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\views\login\login.css">
+      <PackagePath>www\views\login\login.css</PackagePath>
+      <Modified>2016-04-22T02:36:49.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular.min.js.gzip">
+      <PackagePath>www\lib\angular\angular.min.js.gzip</PackagePath>
+      <Modified>2016-04-22T02:36:49.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\angular.min.js.map">
+      <PackagePath>www\lib\angular\angular.min.js.map</PackagePath>
+      <Modified>2016-04-22T02:36:49.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower.json">
+      <PackagePath>www\lib\angular\bower.json</PackagePath>
+      <Modified>2016-04-22T02:36:50.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\.bower.json">
+      <PackagePath>www\lib\angular\bower_components\storejs\.bower.json</PackagePath>
+      <Modified>2016-04-22T02:36:49.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\bower.json">
+      <PackagePath>www\lib\angular\bower_components\storejs\bower.json</PackagePath>
+      <Modified>2016-04-22T02:36:50.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\component.json">
+      <PackagePath>www\lib\angular\bower_components\storejs\component.json</PackagePath>
+      <Modified>2016-04-22T02:36:50.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\package.json">
+      <PackagePath>www\lib\angular\bower_components\storejs\package.json</PackagePath>
+      <Modified>2016-04-22T02:36:50.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\package.json">
+      <PackagePath>www\lib\angular\package.json</PackagePath>
+      <Modified>2016-04-22T02:36:50.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\.gitignore">
+      <PackagePath>www\lib\angular\bower_components\storejs\.gitignore</PackagePath>
+      <Modified>2016-04-22T02:36:49.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\Changelog">
+      <PackagePath>www\lib\angular\bower_components\storejs\Changelog</PackagePath>
+      <Modified>2016-04-22T02:36:49.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\LICENSE">
+      <PackagePath>www\lib\angular\bower_components\storejs\LICENSE</PackagePath>
+      <Modified>2016-04-22T02:36:49.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\Makefile">
+      <PackagePath>www\lib\angular\bower_components\storejs\Makefile</PackagePath>
+      <Modified>2016-04-22T02:36:49.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\README.md">
+      <PackagePath>www\lib\angular\bower_components\storejs\README.md</PackagePath>
+      <Modified>2016-04-22T02:36:49.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\Roadmap.md">
+      <PackagePath>www\lib\angular\bower_components\storejs\Roadmap.md</PackagePath>
+      <Modified>2016-04-22T02:36:49.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\tests\Tests README.md">
+      <PackagePath>www\lib\angular\bower_components\storejs\tests\Tests README.md</PackagePath>
+      <Modified>2016-04-22T02:36:49.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\README.md">
+      <PackagePath>www\lib\angular\README.md</PackagePath>
+      <Modified>2016-04-22T02:36:49.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\scripts\1-create-runner.sh">
+      <PackagePath>www\lib\angular\bower_components\storejs\scripts\1-create-runner.sh</PackagePath>
+      <Modified>2016-04-22T02:36:49.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\scripts\2-ngrok-tunnel.sh">
+      <PackagePath>www\lib\angular\bower_components\storejs\scripts\2-ngrok-tunnel.sh</PackagePath>
+      <Modified>2016-04-22T02:36:49.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\angular\bower_components\storejs\scripts\open-tests-live-reload-browser.sh">
+      <PackagePath>www\lib\angular\bower_components\storejs\scripts\open-tests-live-reload-browser.sh</PackagePath>
+      <Modified>2016-04-22T02:36:49.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.eot</PackagePath>
+      <Modified>2016-04-22T02:36:49.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\fonts\ionicons.eot">
+      <PackagePath>www\lib\onsen\css\ionicons\fonts\ionicons.eot</PackagePath>
+      <Modified>2016-04-22T02:36:49.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2016-04-22T02:36:49.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\fonts\ionicons.svg">
+      <PackagePath>www\lib\onsen\css\ionicons\fonts\ionicons.svg</PackagePath>
+      <Modified>2016-04-22T02:36:49.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2016-04-22T02:36:49.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\fonts\ionicons.ttf">
+      <PackagePath>www\lib\onsen\css\ionicons\fonts\ionicons.ttf</PackagePath>
+      <Modified>2016-04-22T02:36:49.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff</PackagePath>
+      <Modified>2016-04-22T02:36:49.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\ionicons\fonts\ionicons.woff">
+      <PackagePath>www\lib\onsen\css\ionicons\fonts\ionicons.woff</PackagePath>
+      <Modified>2016-04-22T02:36:49.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf">
+      <PackagePath>www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf</PackagePath>
+      <Modified>2016-04-22T02:36:49.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\blue-basic-theme.styl">
+      <PackagePath>www\lib\onsen\stylus\blue-basic-theme.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\blue-theme.styl">
+      <PackagePath>www\lib\onsen\stylus\blue-theme.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\alert-dialog.styl">
+      <PackagePath>www\lib\onsen\stylus\components\alert-dialog.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\button-bar.styl">
+      <PackagePath>www\lib\onsen\stylus\components\button-bar.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\button.styl">
+      <PackagePath>www\lib\onsen\stylus\components\button.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\checkbox.styl">
+      <PackagePath>www\lib\onsen\stylus\components\checkbox.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\dialog.styl">
+      <PackagePath>www\lib\onsen\stylus\components\dialog.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\global.styl">
+      <PackagePath>www\lib\onsen\stylus\components\global.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\index.styl">
+      <PackagePath>www\lib\onsen\stylus\components\index.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\list.styl">
+      <PackagePath>www\lib\onsen\stylus\components\list.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\modal.styl">
+      <PackagePath>www\lib\onsen\stylus\components\modal.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\navigation-bar.styl">
+      <PackagePath>www\lib\onsen\stylus\components\navigation-bar.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\notification.styl">
+      <PackagePath>www\lib\onsen\stylus\components\notification.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\page.styl">
+      <PackagePath>www\lib\onsen\stylus\components\page.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\popover.styl">
+      <PackagePath>www\lib\onsen\stylus\components\popover.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\radio-button.styl">
+      <PackagePath>www\lib\onsen\stylus\components\radio-button.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\range.styl">
+      <PackagePath>www\lib\onsen\stylus\components\range.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\search-input.styl">
+      <PackagePath>www\lib\onsen\stylus\components\search-input.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\switch.styl">
+      <PackagePath>www\lib\onsen\stylus\components\switch.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\tab-bar.styl">
+      <PackagePath>www\lib\onsen\stylus\components\tab-bar.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\text-input.styl">
+      <PackagePath>www\lib\onsen\stylus\components\text-input.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\textarea.styl">
+      <PackagePath>www\lib\onsen\stylus\components\textarea.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\toolbar-button.styl">
+      <PackagePath>www\lib\onsen\stylus\components\toolbar-button.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\components\util.styl">
+      <PackagePath>www\lib\onsen\stylus\components\util.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\dark-theme.styl">
+      <PackagePath>www\lib\onsen\stylus\dark-theme.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\purple-theme.styl">
+      <PackagePath>www\lib\onsen\stylus\purple-theme.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\www\lib\onsen\stylus\sunshine-theme.styl">
+      <PackagePath>www\lib\onsen\stylus\sunshine-theme.styl</PackagePath>
+      <Modified>2016-04-22T02:36:49.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-04-22T02:36:51.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\build\windows\debug\x86\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-22T02:36:52.133</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

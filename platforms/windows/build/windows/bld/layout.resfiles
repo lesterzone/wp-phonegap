@@ -108,7 +108,12 @@ www\lib\onsen\stylus\purple-theme.styl
 www\lib\onsen\stylus\sunshine-theme.styl
 www\scripts\index.js
 www\scripts\platformOverrides.js
+www\styles\create-account.css
+www\styles\main.css
+www\styles\main.js
 www\views\create-account.html
 www\views\login.html
 www\views\login\login.css
+www\views\main.html
+www\views\menu.html
 www\WinJS\js\base.js
