@@ -13,7 +13,7 @@
         $scope.signIn = function () {
             sessionsService.login($scope.data,
             function (data) {
-                app.navi.pushPage('views/create-account.html');
+                app.navi.pushPage('views/main.html');
             },
             function (error) {
                 ons.notification.alert({
