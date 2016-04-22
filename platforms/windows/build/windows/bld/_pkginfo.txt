@@ -1,1 +1,1 @@
-C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\AppPackages\CordovaApp.Windows_1.0.0.0_x86_debug_Test\CordovaApp.Windows_1.0.0.0_x86_debug.appx
+C:\Users\kalfaro\Documents\Projects\UTN\wp-phonegap\platforms\windows\AppPackages\CordovaApp.Windows_1.0.0.0_arm_debug_Test\CordovaApp.Windows_1.0.0.0_arm_debug.appx

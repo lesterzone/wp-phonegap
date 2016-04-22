@@ -7,7 +7,7 @@
 
         $scope.data = {
             'email': 'kenneth.89.an@gmail.com',
-            'password': 'kalaro89'
+            'password': 'kalfaro89'
         };
         
         $scope.signIn = function () {
