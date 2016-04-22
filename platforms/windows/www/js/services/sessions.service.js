@@ -12,11 +12,7 @@
         function logout(callback, error) {
             return $http.delete(baseUrl).then(callback, error);
         }
-
-        function signup() {
-
-        }
-
+        
         return {
             login: login,
             logout: logout

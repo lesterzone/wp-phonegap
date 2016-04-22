@@ -3,23 +3,22 @@
     var module = angular.module('app');
 
     //login screen
-    module.controller('NewAccountController', function ($scope, sessions) {
-
-        $scope.data = {
-            'email': '',
-            'password': ''
-        };
+    module.controller('NewAccountController', function ($scope, usersService) {
         
         $scope.returnLogin = function () {
             app.navi.pushPage('views/login.html');
         }
 
-
-        // app.navi.pushPage('views/page.html');
-
-        /*function openProtectedApp() {
-            loginNavi.pushPage('views/main.html');
-        }*/
-
+        $scope.signup = function () {    
+            usersService.signup($scope.data,
+            function (data) {
+                app.navi.pushPage('views/login.html');
+            },
+            function (error) {
+                ons.notification.alert({
+                    message: error.data.error.message
+                });
+            });
+        }
     });
 })();

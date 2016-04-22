@@ -1,4 +1,4 @@
-﻿global.localStorage = new require('node-localstorage').LocalStorage('/tmp/store.js-test')
+global.localStorage = new require('node-localstorage').LocalStorage('/tmp/store.js-test')
 
 var tests = require('./tests')
 

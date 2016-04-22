@@ -6,8 +6,8 @@
     module.controller('LoginController', function ($scope, sessionsService) {
 
         $scope.data = {
-            'email': 'kenneth.89.an@gmail.com',
-            'password': 'kalfaro89'
+            'email': 'j@email.com',
+            'password': '12345'
         };
         
         $scope.signIn = function () {

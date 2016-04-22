@@ -1,7 +1,7 @@
 ﻿(function () {
     'use strict';
 
-    var sessionsService = function (API_URL, $http) {
+    var sessionsService = function (API_URL, $http, storeSevice) {
 
         var baseUrl = API_URL + 'sessions';
 
@@ -12,14 +12,10 @@
         function logout(callback, error) {
             return $http.delete(baseUrl).then(callback, error);
         }
-
-        function signup() {
-
-        }
-
+        
         return {
             login: login,
-            logout, logout
+            logout: logout
         };
     };
 
@@ -27,6 +23,6 @@
         .module('app')
         .service('sessionsService', sessionsService);
 
-    sessionsService.$inject = ['API_URL', '$http'];
+    sessionsService.$inject = ['API_URL', '$http', 'storeSevice'];
 
 })();
