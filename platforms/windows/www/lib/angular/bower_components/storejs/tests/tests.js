@@ -1,4 +1,4 @@
-require('../json')
+﻿require('../json')
 var store = require('../store')
 
 var tests = module.exports = {

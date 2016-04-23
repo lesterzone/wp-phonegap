@@ -7,7 +7,7 @@
         $scope.movies;
 
         function getMovies() {
-            moviesService.get(
+            moviesService.getAll( { page: 1 },
                 function (data) {
                     $scope.movies = data.data.data;
                 }, function (error) {
@@ -19,6 +19,9 @@
         }
         getMovies();
 
-    	
+        $scope.clickMovie = function (id) {
+            app.naviSliding.pushPage('views/detail-movie.html', {id: id});
+        };
+
     });
 })();

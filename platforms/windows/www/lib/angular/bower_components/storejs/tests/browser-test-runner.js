@@ -1,4 +1,4 @@
-var tests = require('./tests')
+﻿var tests = require('./tests')
 
 document.body.innerHTML = [
 	'tests for <a href="http://github.com/marcuswestin/store.js">store.js</a>',

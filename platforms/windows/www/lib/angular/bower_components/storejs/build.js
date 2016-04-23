@@ -1,4 +1,4 @@
-#!/usr/local/bin/node
+﻿#!/usr/local/bin/node
 
 var fs = require('fs'),
 	uglify = require('uglify-js')
