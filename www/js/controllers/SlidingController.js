@@ -8,13 +8,25 @@
     	$scope.logout = function () {
     		sessionsService.logout(
             function (data) {
-                storeSevice.clear();
-                app.navi.pushPage('views/login.html');
+                logout();
             },
             function (error) {
-                storeSevice.clear();
-                app.navi.pushPage('views/login.html');
+                logout();
             });
         }
+
+        $scope.movies = function () {
+            app.navi.pushPage('views/main.html');
+        }
+
+        $scope.maps = function () {
+            app.navi.pushPage('views/maps.html');
+        }
+
+        function logout() {
+            storeSevice.clear();
+            app.navi.pushPage('views/login.html');
+        }
+
     });
 })();
