@@ -3,7 +3,7 @@
     var module = angular.module('app');
 
     //login screen
-    module.controller('SlidingController', function ($scope, sessionsService,storeSevice) {
+    module.controller('SlidingController', function ($scope, sessionsService, storeSevice) {
 
     	$scope.logout = function () {
     		sessionsService.logout(
