@@ -13,8 +13,6 @@
             return $http.delete(baseUrl).then(callback, error);
         }
 
-        function signup() {}
-
         function isLoggedIn() {
             var token = storeSevice.get('token');
             if (token) {

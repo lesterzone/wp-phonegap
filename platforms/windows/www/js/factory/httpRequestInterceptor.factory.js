@@ -4,7 +4,7 @@
     var httpRequestInterceptor = function (storeSevice) {
         return {
             request: function (config) {
-                var token = storeSevice.token('token') || null;
+                var token = storeSevice.get('token') || null;
                 config.headers.Authorization = token;
                 return config;
             },

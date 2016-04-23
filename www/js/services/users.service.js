@@ -5,8 +5,12 @@
 
         var baseUrl = API_URL + 'users';
 
+        function signup(params, callback, error) {
+            return $http.post(baseUrl, params).then(callback, error);
+        }
+
         return {
-            // login: login
+             signup: signup
         };
     };
 

@@ -1,4 +1,4 @@
-﻿// See https://wiki.saucelabs.com/display/DOCS/Platform+Configurator?_ga=1.24059122.934400320.1451142104#/
+// See https://wiki.saucelabs.com/display/DOCS/Platform+Configurator?_ga=1.24059122.934400320.1451142104#/
 // See ./list-saucelabs-platforms.js
 var CURRENT_VERSION = ''
 var BETA_VERSION = 'beta'

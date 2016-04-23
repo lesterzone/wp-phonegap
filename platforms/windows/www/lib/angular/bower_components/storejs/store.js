@@ -1,4 +1,4 @@
-﻿"use strict"
+"use strict"
 // Module export pattern from
 // https://github.com/umdjs/umd/blob/master/returnExports.js
 ;(function (root, factory) {

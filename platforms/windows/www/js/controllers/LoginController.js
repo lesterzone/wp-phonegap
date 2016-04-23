@@ -7,15 +7,16 @@
 
         $scope.showLogin = false;
 
-        if (sessionsService.isLoggedIn()) {
+        if ( sessionsService.isLoggedIn() ) {
             app.navi.pushPage('views/main.html', { animation: "none" });
         } else {
             $scope.showLogin = true;
         }
 
         $scope.data = {
-            'email': 'kenneth.89.an@gmail.com',
-            'password': 'kalfaro89'
+            'email': 'j@email.com',
+            'password': '12345'
+
         };
         
         $scope.signIn = function () {
@@ -34,6 +35,5 @@
         $scope.createAccount = function () {
             app.navi.pushPage('views/create-account.html');
         }
-
     });
 })();

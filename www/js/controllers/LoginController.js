@@ -14,8 +14,9 @@
         }
 
         $scope.data = {
-            'email': '',
-            'password': ''
+            'email': 'j@email.com',
+            'password': '12345'
+
         };
         
         $scope.signIn = function () {
