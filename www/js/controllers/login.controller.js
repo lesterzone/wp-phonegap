@@ -14,16 +14,21 @@
         }
 
         $scope.data = {
-            'email': 'j@email.com',
-            'password': '12345'
-
+            'email': '',
+            'password': ''
         };
         
         $scope.signIn = function () {
             sessionsService.login($scope.data,
             function (data) {
-                storeSevice.set('token', data.data.token);
-                app.navi.pushPage('views/main.html');
+                if (data.status === 200) {
+                    storeSevice.set('token', data.data.token);
+                    app.navi.pushPage('views/main.html');
+                } else {
+                    ons.notification.alert({
+                        message: data.data.error.message
+                    });
+                }
             },
             function (error) {
                 ons.notification.alert({
